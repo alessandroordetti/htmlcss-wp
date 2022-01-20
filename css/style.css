@@ -17,7 +17,7 @@
 
 
 .pink {
-    height: 150px;
+    height: 200px;
     width: 100%;
 }
 
@@ -33,6 +33,7 @@
 
 .light-blue {
     width: 100%; 
+    margin-bottom: 40px;
 }
 
 .blue-menu {
@@ -48,9 +49,11 @@
 }
 
 .blue-article {
-    width:calc(100% - 500px);
+    width:calc(100% - 530px);
     height: 600px;
     float: left;
+    margin-left: 15px;
+    margin-right: 15px;
 }
 
 .violet {
@@ -68,6 +71,7 @@
 
 #logo-image {
     width: 170px;
+    margin-bottom: 20px;
 }
 
 /* nessuna classe o id alla lista perché sarà la sola presente nel layout */
