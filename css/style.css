@@ -13,8 +13,8 @@
 .container {
     margin: 0 auto;
     width: 80%;
+    min-width: 1000px;
 }
-
 
 .pink {
     height: 170px;
