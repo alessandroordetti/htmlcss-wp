@@ -142,6 +142,7 @@ span#heart {
     height: 250px;
     background-color: rgb(64 39 62 / 33%);
     border-radius: 10px;
+    margin-bottom: 20px;
 }
 
 .left-aside h3, .blue-article h3, .right-aside h3, .light-blue h1 {
@@ -162,6 +163,7 @@ span#heart {
     background-size: cover;
     background-position: center;
     border-radius: 10px;
+    margin-bottom: 20px;
 }
 
 #blue-article-opacity-img {
@@ -179,6 +181,7 @@ span#heart {
     width: 100%;
     height: 250px;
     border-radius: 10px;
+    margin-bottom: 20px;
 }
 
 #right-aside-opacity-img {
