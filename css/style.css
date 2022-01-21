@@ -4,21 +4,24 @@
     padding: 0;
 }
 
-.clearfix {
+.clearfix::after {
     content: "";
     display: table;
     clear: both;
 }
 
 .container {
-    padding: 35px 200px 0 200px;
-    width: 100%;
+/*     padding: 35px 200px 0 200px;
+    width: 100%; */
+    margin: 0 auto;
+    width: 80%;
 }
 
 
 .pink {
-    height: 200px;
+    height: 170px;
     width: 100%;
+    padding-top: 10px;
 }
 
 .yellow {
